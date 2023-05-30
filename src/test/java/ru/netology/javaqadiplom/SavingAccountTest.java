@@ -1,3 +1,5 @@
+// коммент для добавления ветки. Позже удалить
+
 package ru.netology.javaqadiplom;
 
 import org.junit.jupiter.api.Assertions;
